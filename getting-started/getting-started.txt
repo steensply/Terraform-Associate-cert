@@ -1,0 +1,22 @@
+## Getting started
+
+We are going to learn the basics of Terraform
+- Creating main.tf 
+- Add AWS Provider 
+- Generating and configuring AWS credentials 
+- Configure aws virtual machine 
+- Initialize terraform project 
+- Terraform fmt 
+- Terraform validate 
+- Terraform plan
+- Terraform apply 
+- Terraform apply (updating variables) 
+- Create Input variables 
+- Set Locals
+- Create Outputs
+- Usee a Terraform Module
+- Divide project into multiple files
+- Terraform Destroy 
+- Create a terraform cloud workspace
+- Migrate localto remote workspace
+- Move AWS credentials to Environment variables
