@@ -9,7 +9,6 @@ terraform {
 
 provider "aws" {
   region  = var.aws_region
-  profile = "sleek-terraformcourse"
 }
 
 data "aws_availability_zones" "available" {
